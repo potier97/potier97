@@ -4,6 +4,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
+<pre>
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on developing FullStack applications using Spring and Angular.
 - 🌱 I’m currently learning in a Master's program in Software Engineering with a focus on Software Architecture.
@@ -12,7 +13,7 @@
 - 💬 Ask me about anything! I enjoy helping with all sorts of development projects.
 - 📫 How to reach me: Please find my social media links in the next section.
 -⚡ Fun fact: Software architects don't just draw boxes and lines as many think; they can also be circles!
-
+</pre>
  
 <br>
 <h3 align="left">🌐 Connect with me:</h3>
@@ -24,7 +25,8 @@
 <a href="mailto:nicolaspotier97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<h3 align="left">👾 Streak Stats:</h3>
+<br>
+<h3 align="left">🔥 Streak Stats:</h3>
 <div align="center" style="margin: 8px;">
   <div>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=potier97&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=512" alt="GitHub Streak" /></a>
@@ -41,7 +43,7 @@
 </div>
 
 <br>
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
