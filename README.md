@@ -21,7 +21,6 @@
 <br>
 <a href="https://nipoanz.com" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="potier97"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/potier97" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://www.instagram.com/npotier_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
 <a href="mailto:nicolaspotier97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -48,28 +47,28 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,go,java,c,python,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,python" />
   </a>
 </p>
 
 <h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,tailwind,webpack,babel,redux" />
+    <img src="https://skillicons.dev/icons?i=next,angular,webpack,babel,redux" />
   </a>
 </p>
 
 <h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nest,spring,fastapi,flask,express" />
+    <img src="https://skillicons.dev/icons?i=spring,nest,fastapi,flask" />
   </a>
 </p>
 
 <h3 align="center">Database:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
   </a>
 </p>
 
@@ -83,35 +82,21 @@
 <h3 align="center">DevOps:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,nginx,kafka,rabbitmq,grafana,sentry" />
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform,docker,kubernetes,nginx,kafka,rabbitmq,grafana,sentry" />
   </a>
 </p>
 
 <h3 align="center">Cloud:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" />
-  </a>
-</p>
-
-<h3 align="center">Iot:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
-  </a>
-</p>
-
-<h3 align="center">Ui/Ux:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,figma" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws" />
   </a>
 </p>
 
 <h3 align="center">IDE:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode" />
   </a>
 </p>
 
