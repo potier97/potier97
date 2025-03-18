@@ -2,9 +2,10 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Cloud & IoT Enthusiast</h3>
 
 ### 🚀 About Me  
-- 🔭 Currently developing FullStack applications with ** node.js & Java**  
+- 🔭 Currently developing FullStack applications with ** node.js & Java**
 - 🌱 Pursuing a Master's in **Software Engineering**  
 - ☁️ Experienced in **AWS, GCP, and DevOps (CI/CD Pipelines)**
+- 🚀 Passionate about building scalable, high-performance applications
 - 📡 IoT: Integrating digital & physical systems
 - 🔗 Explore my work at [nipoanz.com](https://nipoanz.com)
    
