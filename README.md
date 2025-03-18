@@ -4,7 +4,8 @@
 ### 🚀 About Me  
 - 🔭 Currently developing FullStack applications with ** node.js & Java**  
 - 🌱 Pursuing a Master's in **Software Engineering**  
-- ☁️ Experienced in **AWS, GCP, and DevOps (CI/CD Pipelines)**  
+- ☁️ Experienced in **AWS, GCP, and DevOps (CI/CD Pipelines)**
+- 📡 IoT: Integrating digital & physical systems
 - 🔗 Explore my work at [nipoanz.com](https://nipoanz.com)
    
 ### 🛠️ Tech Stack  
