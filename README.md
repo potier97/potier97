@@ -7,7 +7,6 @@
 - ☁️ Experienced in **AWS, GCP, and DevOps (CI/CD Pipelines)**
 - 🚀 Passionate about building scalable, high-performance applications
 - 📡 IoT: Integrating digital & physical systems
-- 🔗 Explore my work at [nipoanz.com](https://nipoanz.com)
    
 ### 🛠️ Tech Stack  
 <img src="https://skillicons.dev/icons?i=java,nodejs,python,ts" />
